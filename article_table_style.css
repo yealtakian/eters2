@@ -1,0 +1,28 @@
+@font-face {
+  font-family: eters_font_heavy;
+  src: url(fonts/static/RobotoSlab-Light.ttf);
+}
+
+#articles {
+  border-collapse: collapse;
+  font-family: eters_font_heavy;
+  font: bold;
+  width: 100%;
+}
+
+#articles td, #articles th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#articles tr:nth-child(even){background-color: #f2f2f2;}
+
+#articles tr:hover {background-color: #ddd;}
+
+#articles th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
