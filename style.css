@@ -1,21 +1,21 @@
 @font-face {
   font-family: eters_font;
-  src: url(fonts/static/RobotoSlab-Thin.ttf);
+  src: url(RobotoSlab-Thin.ttf);
 }
 
 @font-face {
   font-family: eters_font_heavy;
-  src: url(fonts/static/RobotoSlab-Light.ttf);
+  src: url(RobotoSlab-Light.ttf);
 }
 
 @font-face {
   font-family: eters_font_motto;
-  src: url(fonts/custom_EduQLDBeginner-VariableFont_wght.ttf);
+  src: url(custom_EduQLDBeginner-VariableFont_wght.ttf);
 }
 
 @font-face {
   font-family: eters_font_prologue;
-  src: url(fonts/Exo2-VariableFont_wght.ttf);
+  src: url(Exo2-VariableFont_wght.ttf);
 }
 
 html{
